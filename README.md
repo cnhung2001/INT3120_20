@@ -1,4 +1,5 @@
-# Đây là repo báo cáo hằng tuần việc tự học Flutter
+# INT3120 20 - Phat trien ung dung di dong
+Đây là repo báo cáo hằng tuần việc tự học Flutter
 
 ## Tuần 1
 Đã cài đặt thành công Flutter và android studio
