@@ -9,7 +9,7 @@
 <img src="assets/lesson6.png" alt="lesson 6" title="lesson 6" width="450" height="600" />
 - Lesson 7: Layout trong Flutter
   <img src="assets/lesson7.png" alt="lesson 7" title="lesson 7" width="450" height="600" />
-  ![img.png](assets/lesson7.png)
+
 
 
 
