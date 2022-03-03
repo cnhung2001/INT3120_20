@@ -7,11 +7,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Hello World Demo Application',
+      title: 'INT 3120 20',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Home page'),
+      home: MyHomePage(title: 'Lesson 6'),
     );
   }
 }
@@ -22,15 +22,9 @@ class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text(this.title),
-      ),
-      body: Center(
-          child:
-          Text(
-            'Hello World',
-          )
-      ),
+      appBar: AppBar( title: Text(this.title), ),
+      body: Center( child: Image.asset('assets/flutter.png')),
     );
   }
 }
+
