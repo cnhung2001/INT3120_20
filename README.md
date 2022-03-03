@@ -5,8 +5,10 @@
 - Đã cài đặt thành công Flutter và android studio
 - Chạy thử thành công Hello world theo hướng dẫn ở bài 3
 ## Tuần 2
-- Học bài 6: Widget trong Flutter. Show thành công ra ảnh
-<img src="assets/lesson6.png" alt="lesson 6" title="lesson 6" width="350" height="500" />
+- Lesson 6: Widget trong Flutter
+<img src="assets/lesson6.png" alt="lesson 6" title="lesson 6" width="450" height="600" />
+- Lesson 7: Layout trong Flutter
+  <img src="assets/lesson7.png" alt="lesson 7" title="lesson 7" width="450" height="600" />
 
 
 
