@@ -6,6 +6,6 @@
 - Chạy thử thành công Hello world theo hướng dẫn ở bài 3
 ## Tuần 2
 - Học bài 6: Widget trong Flutter. Show thành công ra ảnh
-![](assets/lesson6.png | with = 100)
+![](assets/lesson6.png | width = 100)
 
 
