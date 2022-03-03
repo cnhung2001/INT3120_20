@@ -1,3 +1,8 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 # INT3120 20 - Phat trien ung dung di dong
 - Đây là repo báo cáo hằng tuần việc tự học Flutter
 
@@ -6,9 +11,9 @@
 - Chạy thử thành công Hello world theo hướng dẫn ở bài 3
 ## Tuần 2
 - Lesson 6: Widget trong Flutter
-<img src="assets/lesson6.png" alt="lesson 6" title="lesson 6" width="450" height="600" />
+<img src="assets/lesson6.png" alt="lesson 6" title="lesson 6" width="600" height="800" />
 - Lesson 7: Layout trong Flutter
-  <img src="assets/lesson7.png" alt="lesson 7" title="lesson 7" width="450" height="600" />
+<img src="assets/lesson7.png" alt="lesson 7" title="lesson 7" width="600" height="800" />
 
 
 
