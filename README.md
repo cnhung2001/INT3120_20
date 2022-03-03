@@ -6,6 +6,7 @@
 - Chạy thử thành công Hello world theo hướng dẫn ở bài 3
 ## Tuần 2
 - Học bài 6: Widget trong Flutter. Show thành công ra ảnh
-![](assets/lesson6.png = 250x250)
+<img src="assets/lesson6.png" alt="lesson 6" title="lesson 6" width="150" height="100" />
+
 
 
