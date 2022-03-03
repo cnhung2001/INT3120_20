@@ -1,8 +1,3 @@
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 # INT3120 20 - Phat trien ung dung di dong
 - Đây là repo báo cáo hằng tuần việc tự học Flutter
 
