@@ -56,7 +56,6 @@ class MyHomePage extends StatelessWidget {
         price: 20,
         image: "sach6.jpg"
     ),
-      ProductBox(name: "chuyen co tich danh cho nguoi lon", price: 20, image: "https://th.bing.com/th/id/R.0701a65fe503c51ce25ef16458c8acf0?rik=H4e71YaVO4FNuQ&pid=ImgRaw&r=0"),
     ],
     )
     );
